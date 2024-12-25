@@ -1,0 +1,14 @@
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\bin\Debug\net6.0\laba 7.exe
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\bin\Debug\net6.0\laba 7.deps.json
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\bin\Debug\net6.0\laba 7.runtimeconfig.json
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\bin\Debug\net6.0\laba 7.dll
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\bin\Debug\net6.0\laba 7.pdb
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\obj\Debug\net6.0\laba 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\obj\Debug\net6.0\laba 7.AssemblyInfoInputs.cache
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\obj\Debug\net6.0\laba 7.AssemblyInfo.cs
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\obj\Debug\net6.0\laba 7.csproj.CoreCompileInputs.cache
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\obj\Debug\net6.0\laba 7.dll
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\obj\Debug\net6.0\refint\laba 7.dll
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\obj\Debug\net6.0\laba 7.pdb
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\obj\Debug\net6.0\laba 7.genruntimeconfig.cache
+D:\d\уник\3 сем\ооп\лаба 7\laba 7\obj\Debug\net6.0\ref\laba 7.dll
